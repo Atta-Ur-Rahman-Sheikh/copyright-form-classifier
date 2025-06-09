@@ -1,6 +1,4 @@
-
-````markdown
-# Copyright Form Classifier
+## Copyright Form Classifier
 
 This Python script uses **Tesseract OCR** and **OpenCV** to automatically classify images as either **copyright-related forms** or **other documents**. It processes images using grayscale, blurring, and thresholding before applying OCR to extract text and match against key copyright-related terms.
 
